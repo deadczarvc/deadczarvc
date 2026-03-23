@@ -13,7 +13,7 @@
 ### About
 
 ⌖ **Location** &nbsp; Moscow, Russian Federation <br/>
-⌗ **Experience** &nbsp; 2+ yrs of IT-experience in different companies <br/>
+⌗ **Experience** &nbsp; 2+ yrs of IT-experience at different companies <br/>
 ◎ **Education** &nbsp; NUST MISIS, Moscow, Russian Federation <br/>
 ⟳ **Learning** &nbsp; Claude API
 
