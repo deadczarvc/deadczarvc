@@ -6,7 +6,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dead_imperator) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lawrenncecharlotte@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=deadczarvc&color=a855f7&style=flat-square)
 
-![Russian agent-developer/vibe-coder](https://img.shields.io/badge/%F0%9F%9F%A2%20Russian%20agent-developer%2Fvibe-coder-a855f7?style=flat-square) ![Moscow UTC+3 MSK+0](https://img.shields.io/badge/Moscow%20UTC%2B3%20MSK%2B0-333?style=flat-square)
+![Russian agent--developer · vibe--coder](https://img.shields.io/badge/%F0%9F%9F%A2%20Russian%20agent--developer%20·%20vibe--coder-a855f7?style=flat-square) ![Moscow UTC+3 MSK+0](https://img.shields.io/badge/Moscow%20UTC%2B3%20MSK%2B0-333?style=flat-square)
 
 </div>
 
