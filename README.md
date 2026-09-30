@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=240&section=header&text=Mikhail%20R.%20Nemerov&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=AI%20Engineer%20%2F%20Project%20Lead&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=240&section=header&text=Mikhail%20R.%20Nemerov&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=AI%20Engineer%20%2F%20Project%20Lead&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Mikhail R. Nemerov — AI Engineer / Project Lead"/>
 </div>
 
 <div align="center">
@@ -45,6 +45,16 @@
 
 ---
 
+### Open Source
+
+🔹 **[jev-factkeep-compaction](https://github.com/deadczarvc-labs/jev-factkeep-compaction)** — Claude Code plugin: Jev-guided context compaction that never erases a tool call. On blind held-out rounds it kept 254 of 286 preregistered facts, against 34 for the original. Maintained in [deadczarvc labs](https://github.com/deadczarvc-labs)
+
+🔹 **[hermes-jev-compaction](https://github.com/deadczarvc/hermes-jev-compaction)** — the same rules as a context engine for Hermes Agent (v0.5.0)
+
+🔹 **Upstream fix** — [tamaratran/fast-jev-compaction#118](https://github.com/tamaratran/fast-jev-compaction/pull/118): where the original compactor loses facts, with proofs and per-call data
+
+---
+
 ### Key Projects
 
 🔹 **Astra Knowledge Base (RAG)** — multi-embedding system: Voyage AI 1024d + Gemini 768d, Qdrant, RRF + Voyage Rerank. 12,500+ documents, Recall@10 94%. Full pipeline: extract→chunk→embed→index→search→rerank→budget trim
@@ -72,10 +82,6 @@
 
 </div>
 
-### Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deadczarvc&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 <div align="center">
@@ -90,6 +96,6 @@
 
 <sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/deadczarvc">github.com/deadczarvc</a></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:360033,100:0b8793&height=120&section=footer" width="100%" alt=""/>
 
 </div>
