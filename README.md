@@ -53,20 +53,6 @@
 
 🔹 **Upstream fix** — [tamaratran/fast-jev-compaction#118](https://github.com/tamaratran/fast-jev-compaction/pull/118): where the original compactor loses facts, with proofs and per-call data
 
----
-
-### Key Projects
-
-🔹 **Astra Knowledge Base (RAG)** — multi-embedding system: Voyage AI 1024d + Gemini 768d, Qdrant, RRF + Voyage Rerank. 12,500+ documents, Recall@10 94%. Full pipeline: extract→chunk→embed→index→search→rerank→budget trim
-
-🔹 **AI Agent Orchestration** — 26 agent types, up to 12 parallel. Model routing (Opus/Sonnet/Haiku), persistent state, MetaGlyph token optimization −37%
-
-🔹 **Worldbuilding KB** — semantic search over 5 fictional universes (12,500+ chunks, 4.5M tokens). Qdrant + entity graph (NetworkX), conflict detection. Pipeline: DOCX/PDF/MD→convert→chunk→embed→store
-
-🔹 **Network Infrastructure** — VPN chains (xray, Hysteria2, WireGuard), DNS-over-HTTPS via SOCKS5, Docker orchestration (Qdrant, ChromaDB, Technitium DNS), monitoring & alerting
-
----
-
 ### Languages
 
 🇷🇺 **Russian** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
