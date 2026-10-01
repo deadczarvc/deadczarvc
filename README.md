@@ -49,7 +49,7 @@
 
 🔹 **[jev-factkeep-compaction](https://github.com/deadczarvc-labs/jev-factkeep-compaction)** — Claude Code plugin: Jev-guided context compaction that never erases a tool call. On blind held-out rounds it kept 304 of 336 preregistered facts, against 36 for the original (50 of 50 on the latest round). Maintained in [deadczarvc labs](https://github.com/deadczarvc-labs)
 
-🔹 **[hermes-jev-compaction](https://github.com/deadczarvc/hermes-jev-compaction)** — the same rules as a context engine for Hermes Agent (v0.5.0)
+🔹 **[hermes-jev-compaction](https://github.com/deadczarvc/hermes-jev-compaction)** — the same rules as a context engine for Hermes Agent (v0.8.1)
 
 🔹 **Upstream fix** — [tamaratran/fast-jev-compaction#118](https://github.com/tamaratran/fast-jev-compaction/pull/118): where the original compactor loses facts, with proofs and per-call data
 
